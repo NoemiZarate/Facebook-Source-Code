@@ -2,7 +2,7 @@
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
-	$dbname = " dbProducts";
+	$dbname = " dbFacebook";
 
 
 	$connect = mysqli_connect($servername,$username,$password,$dbname);
